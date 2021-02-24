@@ -1,2 +1,1 @@
-# exercicios
-aprendendo python
+# Aprendendo python 
